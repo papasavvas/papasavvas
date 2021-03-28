@@ -2,5 +2,5 @@
 
 
 - 😀  I like to work with APIs
-- 📖  I’m currently learning Typescript, Java & GraphQL
+- 📖  I’m currently learning Go, Java & GraphQL
 - 💻  My prefered environment is macOS, JetBrains & Github
